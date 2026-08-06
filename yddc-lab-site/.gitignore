@@ -1,0 +1,17 @@
+# Hugo build output
+/public/
+/resources/_gen/
+.hugo_build.lock
+
+# RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# blogdown
+/blogdown/
+
+# OS
+.DS_Store
+Thumbs.db

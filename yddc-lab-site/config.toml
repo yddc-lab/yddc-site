@@ -1,0 +1,171 @@
+## ------------------------------------------------------------------
+## Repo: https://github.com/yddc-lab/yddc-site  (a PROJECT site)
+## Pages URL will be: https://yddc-lab.github.io/yddc-site/
+## ------------------------------------------------------------------
+baseURL = "https://yddc-lab.github.io/yddc-site/"
+theme = "hugo-apero"
+languageCode = "en"
+title = "YDDC Lab"
+author = "Youth Development in Diverse Contexts (YDDC) Lab"
+copyright = "Youth Development in Diverse Contexts (YDDC) Lab, Fordham University"
+googleAnalytics = ""
+metaDataFormat = "yaml"
+footnoteReturnLinkContents = "&#8617;"
+
+[pagination]
+  pagerSize = 10
+
+preserveTaxonomyNames = true
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+enableEmoji = true
+relativeURLs = false
+canonifyURLs = false
+
+[build]
+  writeStats = true
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark.renderer]
+    unsafe = true
+    hardwraps = false
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+    ordered = false
+  [markup.highlight]
+    style = "github"
+
+[params]
+  orgName = "Fordham University"
+  orgLocal = "Bronx, NY"
+  description = "Youth Development in Diverse Contexts (YDDC) Lab at Fordham University, directed by Dr. Tiffany Yip. We examine the influence of daily life experiences -- identity, stress, sleep, and discrimination -- on developmental outcomes for diverse youth and adolescents."
+  favicon = "/img/favicon.ico"
+  logo = "/img/yddc-logo.png"
+  mainSections = ["blog", "project", "team"]
+  navallcaps = false
+
+  socialInHeader = false
+  socialInFooter = true
+
+  sharing_image = "/img/yddc-logo.png"
+
+  # color theme: one of earth / forest / grayscale / magma / paper / peach /
+  # plum / poppy / primer / sky / violet / water
+  theme = "water"
+  custom_theme = ""
+
+  customtextFontFamily = "Commissioner"
+  customheadingFontFamily = "Fraunces"
+  textFontFamily = "sans-serif"
+  headingFontFamily = "sans-serif"
+
+  # comments are disabled by default -- the lab did not use them before.
+  # set to "utterances" or "giscus" and fill in params below to enable.
+  comments = ""
+
+  [params.utterances]
+    repo_name = ""
+    issue_term = "pathname"
+    theme = "boxy-light"
+    label = "comments"
+
+  [params.giscus]
+    repo = ""
+    repo_id = ""
+    category = "Comments"
+    category_id = ""
+    mapping = "pathname"
+    reactions_enabled = "1"
+    emit_metadata = "0"
+    theme = "light"
+    lang = "en"
+
+  [params.math]
+    renderer = "katex"
+
+  # Contact / footer info, pulled through in partials/shortcodes as needed
+  [params.contact]
+    address = "441 E Fordham Rd, Bronx, NY 10458"
+    room = "Dealy Hall 439, Rose Hill Campus"
+    email = "yddc@fordham.edu"
+    phone = "(718) 817-5828"
+
+  [[params.social]]
+      icon      = "envelope"
+      icon_pack = "fas"
+      url       = "mailto:yddc@fordham.edu"
+  [[params.social]]
+      icon      = "instagram"
+      icon_pack = "fab"
+      url       = "https://www.instagram.com/fussatfordham/"
+  [[params.social]]
+      icon      = "x-twitter"
+      icon_pack = "fab"
+      url       = "https://twitter.com/fussatfordham"
+  [[params.social]]
+      icon      = "rss"
+      icon_pack = "fas"
+      url       = "/blog/index.xml"
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+[menu]
+  [[menu.header]]
+    name = "About"
+    title = "About the Lab"
+    url = "/about/"
+    weight = 1
+  [[menu.header]]
+    name = "The Team"
+    title = "Meet the Team"
+    url = "/team/"
+    weight = 2
+  [[menu.header]]
+    name = "Projects"
+    title = "Research Projects"
+    url = "/project/"
+    weight = 3
+  [[menu.header]]
+    name = "Publications"
+    title = "Publications"
+    url = "/publications/"
+    weight = 4
+  [[menu.header]]
+    name = "News & Press"
+    title = "News and Press"
+    url = "/blog/"
+    weight = 5
+  [[menu.header]]
+    name = "Resources"
+    title = "Resources"
+    url = "/resources/"
+    weight = 6
+  [[menu.header]]
+    name = "Contact"
+    title = "Contact Us"
+    url = "/contact/"
+    weight = 7
+
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    disable = false
+    anonymizeIP = true
+    respectDoNotTrack = true
+  [privacy.instagram]
+    disable = false
+    simple = true
+  [privacy.x]
+    disable = false
+    enableDNT = true
+    simple = false
+  [privacy.vimeo]
+    disable = true
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = true
