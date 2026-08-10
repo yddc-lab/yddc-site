@@ -5,6 +5,9 @@ type: "page"
 layout: "standard"
 show_title_as_headline: true
 weight: 100
+_build:
+  render: true
+  list: true
 ---
 
 Applications for Spring 2026 are currently closed. We welcome your application for future review.

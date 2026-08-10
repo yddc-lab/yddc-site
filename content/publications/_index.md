@@ -5,6 +5,40 @@ layout: "standard"
 show_title_as_headline: true
 ---
 
+<div class="pub-search-box mb5">
+  <input type="text" id="pub-search" placeholder="Search publications by author, title, journal, or year…" class="input-reset ba pa3 w-100 br2" style="border-color:#C4A77D;">
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var input = document.getElementById('pub-search');
+  var container = document.querySelector('.page-content');
+  if (!input || !container) return;
+  var children = Array.prototype.slice.call(container.children);
+
+  input.addEventListener('input', function () {
+    var q = input.value.trim().toLowerCase();
+    var lastHeader = null;
+    var headerHasMatch = false;
+
+    children.forEach(function (el) {
+      if (el.classList && el.classList.contains('pub-search-box')) return;
+      if (el.tagName === 'H2') {
+        if (lastHeader) lastHeader.style.display = (headerHasMatch || q === '') ? '' : 'none';
+        lastHeader = el;
+        headerHasMatch = false;
+        return;
+      }
+      var text = el.textContent.toLowerCase();
+      var match = q === '' || text.indexOf(q) !== -1;
+      el.style.display = match ? '' : 'none';
+      if (match) headerHasMatch = true;
+    });
+    if (lastHeader) lastHeader.style.display = (headerHasMatch || q === '') ? '' : 'none';
+  });
+});
+</script>
+
 ## 2024-2025
 
 Alegria, M., Cruz-Gonzalez, M., Wang, L., Valentino, K., Park, I., Zhen-Duan, J., Alvarez, K., Giraldo-Santiago, N., Barrutia, X, Yip, T. (in press). Yearly and daily discrimination-related stressors and Mexican youth's mental health and sleep: Insights from the first wave of a three-wave family study. *Journal of the American Academy of Child and Adolescent Psychiatry*.

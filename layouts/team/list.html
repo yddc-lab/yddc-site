@@ -1,0 +1,33 @@
+{{ define "main" }}
+<main class="page-main pa4" role="main">
+  <section class="blog-intro mw8 center tc mb5">
+    <h2 class="f2 f1-ns lh-solid center fw4">{{ .Title }}</h2>
+    <p class="f6 f5-ns measure lh-copy center">{{ .Description }}</p>
+  </section>
+
+  <section class="mw8 center">
+    {{ $people := where .RegularPagesRecursive "Type" "team" }}
+    {{ range $people.ByWeight }}
+      {{ $person := . }}
+      {{ $images := .Resources.ByType "image" }}
+      {{ $photo := $images.GetMatch "*feature*" }}
+      <article class="flex flex-column flex-row-ns items-start mb5 pb4 bb" style="border-color:#C4A77D;">
+        <div class="w-100 w-20-ns mr4-ns mb3 mb0-ns flex-shrink-0">
+          <div class="aspect-ratio aspect-ratio--1x1 cover br2 bg-black-05" {{ with $photo }}style="background: url('{{ .RelPermalink | absURL }}') center center no-repeat;"{{ end }}></div>
+        </div>
+        <div class="w-100 w-80-ns">
+          <h3 class="f3 fw6 mv0">{{ $person.Title }}</h3>
+          {{ with $person.Params.subtitle }}<p class="f5 fw6 mt1 mb3">{{ . }}</p>{{ end }}
+          <div class="f5 lh-copy">{{ $person.Content }}</div>
+        </div>
+      </article>
+    {{ end }}
+  </section>
+
+  {{ with .Content }}
+  <section class="page-content mw8 center mt5">
+    {{ . }}
+  </section>
+  {{ end }}
+</main>
+{{ end }}

@@ -41,7 +41,7 @@ canonifyURLs = false
   orgLocal = "Bronx, NY"
   description = "Youth Development in Diverse Contexts (YDDC) Lab at Fordham University, directed by Dr. Tiffany Yip. We examine the influence of daily life experiences -- identity, stress, sleep, and discrimination -- on developmental outcomes for diverse youth and adolescents."
   favicon = "/img/favicon.ico"
-  logo = "img/yddc-logo.png"
+  logo = "/img/yddc-logo.png"
   mainSections = ["blog", "project", "team"]
   navallcaps = false
 
@@ -50,10 +50,9 @@ canonifyURLs = false
 
   sharing_image = "/img/yddc-logo.png"
 
-  # color theme: one of earth / forest / grayscale / magma / paper / peach /
-  # plum / poppy / primer / sky / violet / water
-  theme = "water"
-  custom_theme = ""
+  # color theme: custom Fordham maroon/tan palette (see assets/maroon-hex.scss)
+  theme = ""
+  custom_theme = "maroon-hex"
 
   customtextFontFamily = "Commissioner"
   customheadingFontFamily = "Fraunces"
@@ -125,30 +124,35 @@ canonifyURLs = false
     url = "/team/"
     weight = 2
   [[menu.header]]
+    name = "Research Opportunities"
+    title = "Research Opportunities"
+    url = "/team/research-opportunities/"
+    weight = 3
+  [[menu.header]]
     name = "Projects"
     title = "Research Projects"
     url = "/project/"
-    weight = 3
+    weight = 4
   [[menu.header]]
     name = "Publications"
     title = "Publications"
     url = "/publications/"
-    weight = 4
+    weight = 5
   [[menu.header]]
     name = "News & Press"
     title = "News and Press"
     url = "/blog/"
-    weight = 5
+    weight = 6
   [[menu.header]]
     name = "Resources"
     title = "Resources"
     url = "/resources/"
-    weight = 6
+    weight = 7
   [[menu.header]]
     name = "Contact"
     title = "Contact Us"
     url = "/contact/"
-    weight = 7
+    weight = 8
 
 [privacy]
   [privacy.disqus]

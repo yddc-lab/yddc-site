@@ -5,6 +5,9 @@ type: "page"
 layout: "standard"
 show_title_as_headline: true
 weight: 101
+_build:
+  render: true
+  list: true
 ---
 
 No lab is complete without its pets! Meet the four-legged (and occasionally furry-in-a-cage) members of YDDC.

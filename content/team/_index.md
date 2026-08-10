@@ -1,24 +1,14 @@
 ---
 title: "The Team"
-description: "Meet the people behind the YDDC Lab -- click any card to read a full bio."
-type: "project"
-show_post_thumbnail: true
-thumbnail_left: false
-show_author_byline: false
-show_post_date: false
-show_button_links: false
-layout: list-grid
+description: "Meet the people behind the YDDC Lab."
+_build:
+  render: true
+  list: true
 
 cascade:
-  type: "project"
-  layout: "single-sidebar"
-  show_author_byline: false
-  show_post_date: false
-  show_comments: false
-  sidebar:
-    text_link_label: "View all team members"
-    text_link_url: "/team/"
-    show_sidebar_adunit: false
+  _build:
+    render: false
+    list: always
 ---
 
 ## Collaborators
@@ -107,4 +97,6 @@ cascade:
 
 ---
 
-Curious about joining the lab? See our [Research Opportunities](/team/research-opportunities/) page. And yes, we also keep track of our [Lab Pets](/team/lab-pets/) 🐾
+<div class="mt4">
+  <a href="/team/lab-pets/" class="dib mb3 ph4 pv3 f6 ttu tracked fw6 br2 no-underline" style="background:#C4A77D; color:#1A1A1A;">Lab Pets &nbsp;🐾</a>
+</div>
