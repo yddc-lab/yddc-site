@@ -13,16 +13,16 @@ cascade:
 
 ## Collaborators
 
-- Cindy Liu (BWH)
-- David Chae (Tulane)
-- Jenny Zhen-Duan (Mass Gen)
-- Kiara Alvarez (Johns Hopkins)
-- Kristin Valentino (Notre Dame)
-- Lijuan Wang (Notre Dame)
-- Linda Charmaraman (Wellesley)
-- Margarita Alegria (Mass Gen)
-- Mona El Sheikh (Auburn)
-- Yijie Wang (MSU)
+- Dr. Cindy Liu (BWH)
+- Dr. David Chae (Tulane)
+- Dr. Jenny Zhen-Duan (Mass Gen)
+- Dr. Kiara Alvarez (Johns Hopkins)
+- Dr. Kristin Valentino (Notre Dame)
+- Dr. Lijuan Wang (Notre Dame)
+- Dr. Linda Charmaraman (Wellesley)
+- Dr. Margarita Alegria (Mass Gen)
+- Dr. Mona El Sheikh (Auburn)
+- Dr. Yijie Wang (MSU)
 
 ## Lab Alumni
 
@@ -34,9 +34,9 @@ cascade:
 - Sheena Mirpuri, PhD — Principal Advisor at BIT Americas
 - Sandra Donnay, PhD, C.P.A — Founder and Director of the Racial Equity Initiative (TREI)
 - Mingjun Xie, PhD — Assistant Professor at Beijing Normal University
-- Pak See Ip — Development Coordinator at Family Bridges, Inc.
-- Jill Fowle — Doctoral student in Applied Developmental Psychology at Fordham University
-- Shadane Johnson — Doctoral student in Developmental and Child Psychology at Fordham University
+- Pak See Ip, MA — Development Coordinator at Family Bridges, Inc.
+- Jill Fowle, MA — Doctoral student in Applied Developmental Psychology at Fordham University
+- Shadane Johnson, MA — Research Specialist at Metis Associates
 - Zhenqiang Zhao, PhD — Assistant Professor at San Diego State University
 - Kyle Lorenzo, PhD — Assistant Professor at St. Mary's College of Maryland
 - Jinjin Yan, PhD — Assistant Professor at Chinese University of Hong Kong - Shenzhen
@@ -48,8 +48,13 @@ cascade:
 
 #### Research Assistants
 
+- Emma Eitmann
+- Douglas Gelman
+- Cindy Liu — Clinical Research Assistant at Children's Hospital of Philadelphia
+- Sara Anna Venturini
+- Saniya Jasani
 - Iida Linkka — Clinical Research Coordinator at Icahn School of Medicine at Mount Sinai
-- Yamelis Valarezo
+- Yamelis Valarezo — Psychometrist at NYC Brain Traumatic Brain Injury Center
 - Dayana Lazo
 - Sydney Orama — Paraprofessional at Celebrate the Children
 - Rebecca Garvey — Research Associate at Capvision
