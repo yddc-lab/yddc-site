@@ -1,6 +1,6 @@
 ---
 title: "The Team"
-description: "Meet the people behind the YDDC Lab."
+description: 
 _build:
   render: true
   list: true
