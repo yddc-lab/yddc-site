@@ -13,7 +13,7 @@
       {{ $photo := $images.GetMatch "*feature*" }}
       <article class="mb5 pb4 bb" style="border-color:#C4A77D;">
         {{ with $photo }}
-        <img src="{{ .RelPermalink }}" class="w-100 br2 mb3" alt="{{ $proj.Title }}">
+        <img src="{{ .RelPermalink }}" class="w-100 br2 mb3" style="max-height: 350px; object-fit: cover;" alt="{{ $proj.Title }}">
         {{ end }}
         <h3 class="f3 fw6 mv0">{{ $proj.Title }}</h3>
         {{ with $proj.Params.subtitle }}<p class="f5 fw6 mt1 mb3">{{ . }}</p>{{ end }}
