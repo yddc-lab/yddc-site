@@ -1,6 +1,6 @@
 ---
 title: "The Fordham University Sleep Study (FUSS)"
-subtitle: "2021 - present"
+subtitle: "PI: Dr.Tiffany Yip | 2021 - present "
 excerpt: "FUSS explores how sleep patterns change and develop during and after the college transition, and how they relate to health disparities."
 current_study: true
 weight: 1

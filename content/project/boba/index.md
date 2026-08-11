@@ -1,8 +1,8 @@
 ---
 title: "Building Our Bonds Authentically (BOBA) Study"
-subtitle: "PIs: Cindy Liu, Tiffany Yip"
+subtitle: "PIs: Drs. Cindy Liu & Tiffany Yip | 2022 - present"
 excerpt: "BOBA examines how racial discrimination is associated with mental health and biological stress among Chinese American adolescents and their parents."
-weight: 5
+weight: 4
 links:
 - icon: door-open
   icon_pack: fas
