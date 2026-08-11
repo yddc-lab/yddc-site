@@ -7,7 +7,7 @@ images:
 image_left: false
 text_align_left: true
 show_social_links: true
-show_action_link: true
+show_action_link: false
 action_link: /about
 action_label: "Learn More &rarr;"
 action_type: text
