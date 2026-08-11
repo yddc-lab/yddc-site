@@ -39,16 +39,16 @@ canonifyURLs = false
 [params]
   orgName = "Fordham University"
   orgLocal = "Bronx, NY"
-  description = "Youth Development in Diverse Contexts (YDDC) Lab at Fordham University, directed by Dr. Tiffany Yip. We examine the influence of daily life experiences -- identity, stress, sleep, and discrimination -- on developmental outcomes for diverse youth and adolescents."
-  favicon = "/img/favicon.ico"
-  logo = "/img/yddc-logo.png"
+  description = "Youth Development in Diverse Contexts (YDDC) Lab at Fordham University, directed by Dr. Tiffany Yip. We examine the influence of daily life experiences, such as identity, stress, sleep, and discrimination, on developmental outcomes for diverse youth, adolescents, and young adults."
+  favicon = "img/yddc-logo.png"
+  logo = "img/yddc-logo.png"
   mainSections = ["blog", "project", "team"]
   navallcaps = false
 
   socialInHeader = false
   socialInFooter = true
 
-  sharing_image = "/img/yddc-logo.png"
+  sharing_image = "img/yddc-logo.png"
 
   # color theme: custom Fordham maroon/tan palette (see assets/maroon-hex.scss)
   theme = ""
@@ -98,14 +98,6 @@ canonifyURLs = false
       icon      = "instagram"
       icon_pack = "fab"
       url       = "https://www.instagram.com/fussatfordham/"
-  [[params.social]]
-      icon      = "x-twitter"
-      icon_pack = "fab"
-      url       = "https://twitter.com/fussatfordham"
-  [[params.social]]
-      icon      = "rss"
-      icon_pack = "fas"
-      url       = "/blog/index.xml"
 
 [taxonomies]
   category = "categories"
@@ -124,29 +116,29 @@ canonifyURLs = false
     url = "/team/"
     weight = 2
   [[menu.header]]
-    name = "Research Opportunities"
-    title = "Research Opportunities"
-    url = "/team/research-opportunities/"
-    weight = 3
-  [[menu.header]]
     name = "Projects"
     title = "Research Projects"
     url = "/project/"
-    weight = 4
+    weight = 3
   [[menu.header]]
     name = "Publications"
     title = "Publications"
     url = "/publications/"
-    weight = 5
+    weight = 4
   [[menu.header]]
     name = "News & Press"
     title = "News and Press"
     url = "/blog/"
-    weight = 6
+    weight = 5
   [[menu.header]]
     name = "Resources"
     title = "Resources"
     url = "/resources/"
+    weight = 6
+  [[menu.header]]
+    name = "Research Opportunities"
+    title = "Research Opportunities"
+    url = "/team/research-opportunities/"
     weight = 7
   [[menu.header]]
     name = "Contact"
