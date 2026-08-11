@@ -10,7 +10,7 @@ _build:
   list: true
 ---
 
-Applications for Spring 2026 are currently closed. We welcome your application for future review.
+Applications for Fall 2026 are open.
 
 **[Fill out the YDDC Lab Undergraduate Research Assistant Application](https://forms.gle/vu2VX7j24M6WYA2i6)**
 
