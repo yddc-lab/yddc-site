@@ -18,14 +18,14 @@
     </div>
   </section>
 
-  <!-- Current Study callout -->
+ <!-- Current Study callout -->
   {{ $current := where site.RegularPages "Type" "project" }}
   {{ $current := where $current "Params.current_study" true }}
   {{ with $current }}
   <section class="page-content mw8 center mt5 pa4 ba b--light-gray br3">
-    <h3 class="f3 fw6 mb2">Current Study</h3>
-    {{ range first 1 . }}
-      <h4 class="f4 fw5 mt0 mb2"><a href="/project/">{{ .Title }}</a></h4>
+    <h3 class="f3 fw6 mb2">{{ if gt (len .) 1 }}Current Studies{{ else }}Current Study{{ end }}</h3>
+    {{ range . }}
+      <h4 class="f4 fw5 mt3 mb2"><a href="/project/">{{ .Title }}</a></h4>
       <p class="f5 lh-copy">{{ .Params.excerpt | default .Summary | markdownify }}</p>
       {{ if .Params.links }}{{ partial "shared/btn-links.html" . }}{{ end }}
     {{ end }}
