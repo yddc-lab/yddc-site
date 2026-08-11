@@ -7,9 +7,9 @@ links:
 - icon: newspaper
   icon_pack: far
   name: Read the original
-  url: "https://yddclab.wixsite.com/yddc/news-1/research-on-asian-americans-and-pacific-islanders-is-being-stifled"
+  url: "https://www.scientificamerican.com/article/research-on-asian-americans-and-pacific-islanders-is-being-stifled/"
 ---
 
 Dr. Tiffany Yip speaks to Scientific American about the impact of decreased funding and research on the AAPI community.
 
-[Read the original article](https://yddclab.wixsite.com/yddc/news-1/research-on-asian-americans-and-pacific-islanders-is-being-stifled)
+[Read the original article](https://www.scientificamerican.com/article/research-on-asian-americans-and-pacific-islanders-is-being-stifled/)

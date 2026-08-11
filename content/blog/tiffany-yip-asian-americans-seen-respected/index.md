@@ -7,9 +7,9 @@ links:
 - icon: newspaper
   icon_pack: far
   name: Read the original
-  url: "https://yddclab.wixsite.com/yddc/news-1/tiffany-yip-wants-asian-americans-to-be-seen-and-treated-with-respect"
+  url: "https://www.apa.org/members/content/asian-pacific-island-heritage"
 ---
 
 Dr. Tiffany Yip speaks about the Asian American experience involving stereotyping, a rise in hate crimes, and other issues Asian Americans face today.
 
-[Read the original article](https://yddclab.wixsite.com/yddc/news-1/tiffany-yip-wants-asian-americans-to-be-seen-and-treated-with-respect)
+[Read the original article](https://www.apa.org/members/content/asian-pacific-island-heritage)

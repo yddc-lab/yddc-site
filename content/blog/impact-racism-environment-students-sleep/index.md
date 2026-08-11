@@ -1,5 +1,5 @@
 ---
-title: "The Impact of Racism and Environment on Students' Sleep"
+title: "The Impact of Racism and Environment on Students’ Sleep"
 date: 2022-04-13
 excerpt: "Dr. Yip is featured on Fordham University's mini lecture series."
 draft: false
@@ -7,9 +7,9 @@ links:
 - icon: newspaper
   icon_pack: far
   name: Read the original
-  url: "https://yddclab.wixsite.com/yddc/news-1/the-impact-of-racism-and-environment-on-students%E2%80%99-sleep"
+  url: "https://www.fordham.edu/info/21660/psychology_faculty_and_staff/5443/tiffany_yip"
 ---
 
-Dr. Yip is featured on Fordham University's mini lecture series.
+In the first video of this year’s annual faculty mini-lecture series, Tiffany Yip, Ph.D., chair and professor of the psychology department, explains how racism and the environment can impact students’ sleep.
 
-[Read the original article](https://yddclab.wixsite.com/yddc/news-1/the-impact-of-racism-and-environment-on-students%E2%80%99-sleep)
+[Read the original article](https://www.fordham.edu/info/21660/psychology_faculty_and_staff/5443/tiffany_yip)

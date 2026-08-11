@@ -7,9 +7,9 @@ links:
 - icon: newspaper
   icon_pack: far
   name: Read the original
-  url: "https://yddclab.wixsite.com/yddc/news-1/surge-in-hate-incidents-prompting-asian-american-parents-to-talk-with-their-kids-about-racism"
+  url: "https://www.cbsnews.com/video/surge-in-hate-incidents-prompting-asian-american-parents-to-talk-with-their-kids-about-racism/"
 ---
 
 Elaine Quijano speaks to Asian American parents about the racism conversations they're having with their own young children.
 
-[Read the original article](https://yddclab.wixsite.com/yddc/news-1/surge-in-hate-incidents-prompting-asian-american-parents-to-talk-with-their-kids-about-racism)
+[Read the original article](https://www.cbsnews.com/video/surge-in-hate-incidents-prompting-asian-american-parents-to-talk-with-their-kids-about-racism/)

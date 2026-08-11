@@ -1,15 +1,17 @@
 ---
 title: "The Rise in Anti-Asian Hate Is Harming Asian American Health"
 date: 2023-01-04
-excerpt: "The medical community can help prevent long-term consequences of anti-Asian hate."
+excerpt: "The medical community can help prevent long-term consequences"
 draft: false
 links:
 - icon: newspaper
   icon_pack: far
   name: Read the original
-  url: "https://yddclab.wixsite.com/yddc/news-1/the-rise-in-anti-asian-hate-is-harming-asian-american-health"
+  url: "https://www.medpagetoday.com/opinion/second-opinions/102497"
 ---
 
-The medical community can help prevent long-term consequences of anti-Asian hate.
+A study published last year, led by academic psychologist and Fordham University professor Tiffany Yip, PhD, showed a link between anti-Asian racism and changes in physical functioning during the pandemic.
 
-[Read the original article](https://yddclab.wixsite.com/yddc/news-1/the-rise-in-anti-asian-hate-is-harming-asian-american-health)
+See below to read more.
+
+[Read the original article](https://www.medpagetoday.com/opinion/second-opinions/102497)

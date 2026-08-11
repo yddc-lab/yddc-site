@@ -7,9 +7,9 @@ links:
 - icon: newspaper
   icon_pack: far
   name: Read the original
-  url: "https://yddclab.wixsite.com/yddc/news-1/barriers-to-tenure-and-promotion-persist-for-psychology-faculty-of-color"
+  url: "https://www.insidehighered.com/news/faculty-issues/diversity-equity/2023/09/21/psychology-faculty-color-barriers-tenure-promotion"
 ---
 
-A report by the American Psychological Association outlines the barriers many faculty members of color face and calls for increased transparency in the tenure and promotion process.
+See below to read the article.
 
-[Read the original article](https://yddclab.wixsite.com/yddc/news-1/barriers-to-tenure-and-promotion-persist-for-psychology-faculty-of-color)
+[Read the original article](https://www.insidehighered.com/news/faculty-issues/diversity-equity/2023/09/21/psychology-faculty-color-barriers-tenure-promotion)

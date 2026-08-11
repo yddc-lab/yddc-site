@@ -7,9 +7,9 @@ links:
 - icon: newspaper
   icon_pack: far
   name: Read the original
-  url: "https://yddclab.wixsite.com/yddc/news-1/mental-health-for-bipoc-storytellers"
+  url: "https://www.youtube.com/watch?v=c4VjIrTLMjI"
 ---
 
-Dr. Tiffany Yip joins a panel discussing tools and strategies for journalists and artists to maintain their mental health at the frontlines of the COVID-19 pandemic.
+Dr. Tiffany Yip joined a panel discussing tools and strategies for journalists and artists to maintain their mental health at the frontlines of the COVID-19 pandemic.
 
-[Read the original article](https://yddclab.wixsite.com/yddc/news-1/mental-health-for-bipoc-storytellers)
+[Read the original article](https://www.youtube.com/watch?v=c4VjIrTLMjI)

@@ -7,9 +7,9 @@ links:
 - icon: newspaper
   icon_pack: far
   name: Read the original
-  url: "https://yddclab.wixsite.com/yddc/news-1/how-to-respond-when-your-child-shows-bias-"
+  url: "https://www.romper.com/p/how-to-respond-when-your-child-shows-bias-27637322"
 ---
 
 A discussion on the imperative for adults to discuss exclusion with their children.
 
-[Read the original article](https://yddclab.wixsite.com/yddc/news-1/how-to-respond-when-your-child-shows-bias-)
+[Read the original article](https://www.romper.com/p/how-to-respond-when-your-child-shows-bias-27637322)

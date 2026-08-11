@@ -7,9 +7,9 @@ links:
 - icon: newspaper
   icon_pack: far
   name: Read the original
-  url: "https://yddclab.wixsite.com/yddc/news-1/advocates-call-for-research-into-pandemic's-impact-on-aapi-health"
+  url: "https://america.cgtn.com/2021/08/26/advocates-call-for-research-into-pandemics-impact-on-aapi-health"
 ---
 
 Dr. Tiffany Yip speaks to China Global Television Network America about the need for increasing research on AAPI mental health in relation to the COVID-19 pandemic.
 
-[Read the original article](https://yddclab.wixsite.com/yddc/news-1/advocates-call-for-research-into-pandemic's-impact-on-aapi-health)
+[Read the original article](https://america.cgtn.com/2021/08/26/advocates-call-for-research-into-pandemics-impact-on-aapi-health)

@@ -7,9 +7,9 @@ links:
 - icon: newspaper
   icon_pack: far
   name: Read the original
-  url: "https://yddclab.wixsite.com/yddc/news-1/students-face-worsening-mental-health%2C-but-how-will-schools-handle-it%3F"
+  url: "https://www.teenvogue.com/story/students-mental-health-how-will-schools-handle-it"
 ---
 
 Dr. Tiffany Yip speaks to Teen Vogue about the impact of the COVID-19 pandemic on the mental health of students.
 
-[Read the original article](https://yddclab.wixsite.com/yddc/news-1/students-face-worsening-mental-health%2C-but-how-will-schools-handle-it%3F)
+[Read the original article](https://www.teenvogue.com/story/students-mental-health-how-will-schools-handle-it)
