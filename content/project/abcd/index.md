@@ -1,6 +1,6 @@
 ---
 title: "Adolescent Brain Cognitive Development (ABCD) Study"
-subtitle: "PI: Yijie Wang "
+subtitle: "PI: Dr. Yijie Wang "
 excerpt: "Drawing on the largest national longitudinal study of adolescent development, this project examines discrimination, substance use, and sleep from late childhood through adolescence."
 weight: 5
 ---

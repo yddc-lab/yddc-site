@@ -1,6 +1,6 @@
 ---
 title: "Seguimos Avanzando - Latino Youth Coping With Discrimination"
-subtitle: "PI: Margarita Alegria "
+subtitle: "PI: Dr. Margarita Alegria "
 excerpt: "A community-based study of emotion regulation, coping, and family influences on discrimination and wellbeing among Mexican-origin adolescents and their parents."
 weight: 6
 links:
