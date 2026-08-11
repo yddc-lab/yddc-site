@@ -101,7 +101,3 @@ cascade:
 - Isabella Tomei — Doctoral student in Clinical Psychology at University of Miami Ohio
 
 ---
-
-<div class="mt4">
-  <a href="/team/lab-pets/" class="dib mb3 ph4 pv3 f6 ttu tracked fw6 br2 no-underline" style="background:#C4A77D; color:#1A1A1A;">Lab Pets &nbsp;🐾</a>
-</div>
