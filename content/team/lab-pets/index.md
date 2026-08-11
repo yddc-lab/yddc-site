@@ -10,7 +10,7 @@ _build:
   list: true
 ---
 
-No lab is complete without its pets! Meet the four-legged (and occasionally furry-in-a-cage) members of YDDC.
+Our lab's furry family members!
 
 *Photos coming soon -- drop pet pictures into `static/img/pets/` and add them below.*
 
