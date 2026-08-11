@@ -25,7 +25,7 @@
   <section class="page-content mw8 center mt5 pa4 ba b--light-gray br3">
     <h3 class="f3 fw6 mb2">{{ if gt (len .) 1 }}Current Studies{{ else }}Current Study{{ end }}</h3>
     {{ range . }}
-      <h4 class="f4 fw5 mt3 mb2"><a href="/project/">{{ .Title }}</a></h4>
+      <h4 class="f4 fw5 mt3 mb2"><a href="{{ "project/" | relURL }}">{{ .Title }}</a></h4>
       <p class="f5 lh-copy">{{ .Params.excerpt | default .Summary | markdownify }}</p>
       {{ if .Params.links }}{{ partial "shared/btn-links.html" . }}{{ end }}
     {{ end }}
@@ -47,7 +47,7 @@
       </article>
       {{ end }}
     </div>
-    <p class="tc"><a href="/blog/">See all news &amp; press &rarr;</a></p>
+    <p class="tc"><a href="{{ "blog/" | relURL }}">See all news &amp; press &rarr;</a></p>
   </section>
   {{ end }}
 </main>
