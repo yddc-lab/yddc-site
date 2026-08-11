@@ -1,0 +1,36 @@
+{{ define "main" }}
+<main class="page-main pa4" role="main">
+  <section class="blog-intro mw8 center tc mb5">
+    <h2 class="f2 f1-ns lh-solid center fw4">{{ .Title }}</h2>
+    <p class="f6 f5-ns measure lh-copy center">{{ .Description }}</p>
+  </section>
+
+  <section class="mw8 center">
+    {{ $projects := where .RegularPagesRecursive "Type" "project" }}
+    {{ range $projects.ByWeight }}
+      {{ $proj := . }}
+      {{ $images := .Resources.ByType "image" }}
+      {{ $photo := $images.GetMatch "*feature*" }}
+      <article class="mb5 pb4 bb" style="border-color:#C4A77D;">
+        {{ with $photo }}
+        <img src="{{ .RelPermalink }}" class="w-100 br2 mb3" alt="{{ $proj.Title }}">
+        {{ end }}
+        <h3 class="f3 fw6 mv0">{{ $proj.Title }}</h3>
+        {{ with $proj.Params.subtitle }}<p class="f5 fw6 mt1 mb3">{{ . }}</p>{{ end }}
+        {{ if $proj.Params.links }}
+        <div class="pb3">
+          {{ partial "shared/btn-links.html" $proj }}
+        </div>
+        {{ end }}
+        <div class="f5 lh-copy">{{ $proj.Content }}</div>
+      </article>
+    {{ end }}
+  </section>
+
+  {{ with .Content }}
+  <section class="page-content mw8 center mt5">
+    {{ . }}
+  </section>
+  {{ end }}
+</main>
+{{ end }}

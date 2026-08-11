@@ -25,7 +25,7 @@
   <section class="page-content mw8 center mt5 pa4 ba b--light-gray br3">
     <h3 class="f3 fw6 mb2">Current Study</h3>
     {{ range first 1 . }}
-      <h4 class="f4 fw5 mt0 mb2"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
+      <h4 class="f4 fw5 mt0 mb2"><a href="/project/">{{ .Title }}</a></h4>
       <p class="f5 lh-copy">{{ .Params.excerpt | default .Summary | markdownify }}</p>
       {{ if .Params.links }}{{ partial "shared/btn-links.html" . }}{{ end }}
     {{ end }}
