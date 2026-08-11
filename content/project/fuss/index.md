@@ -15,7 +15,7 @@ links:
   url: https://www.instagram.com/fussatfordham/
 ---
 
-Funded the National Institutes of Health (PI: Yip), FUSS explores how sleep patterns change and develop during and after the college transition. This study begins data collection during freshman orientation to capture the development of sleep patterns as soon as students arrive at campus and continues through all four years of college. Teasing apart sociodemographic and environmental impacts of sleep behavior, this study explores systematic differences by ethnicity/race, age, gender, 1st-generation college students, SES, and commuters versus on-campus residents.
+Funded the National Institutes of Health, FUSS explores how sleep patterns change and develop during and after the college transition. This study begins data collection during freshman orientation to capture the development of sleep patterns as soon as students arrive at campus and continues through all four years of college. Teasing apart sociodemographic and environmental impacts of sleep behavior, this study explores systematic differences by ethnicity/race, age, gender, 1st-generation college students, SES, and commuters versus on-campus residents.
 
 As part of this study, participants wear a wrist actigraph for 2 weeks and complete daily reports of activities, feelings and behaviors. In addition, participants also provide hair and dried blood spot samples to measure physiological stress and biological functioning. FUSS is designed to investigate how sleep behaviors and patterns in college impact the downstream development of health disparities.
 

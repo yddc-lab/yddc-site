@@ -1,10 +1,11 @@
 ---
 title: "Adolescent Brain Cognitive Development (ABCD) Study"
+subtitle: "PI: Yijie Wang "
 excerpt: "Drawing on the largest national longitudinal study of adolescent development, this project examines discrimination, substance use, and sleep from late childhood through adolescence."
-weight: 3
+weight: 5
 ---
 
-The project draws from the on-going, national, longitudinal study of Adolescent Brain Cognitive Development (ABCD), the largest national study of its kind, which follows 11,875 children (9-10 years old) through adolescence. The project (PI: Yijie Wang) examines three research aims.
+The project draws from the on-going, national, longitudinal study of Adolescent Brain Cognitive Development (ABCD), the largest national study of its kind, which follows 11,875 children (9-10 years old) through adolescence. The project examines three research aims.
 
 First, the study investigates temporal, prospective, and reciprocal linkages between discrimination and substance use, from late childhood to early adolescence, disentangling whether discrimination is a contributing or a resulting factor of substance use initiation and continuation. Sources of discrimination include: ethnicity/race, immigration status, sexual orientation, and body shape.
 

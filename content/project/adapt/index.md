@@ -1,6 +1,6 @@
 ---
 title: "Adult Development After the Post-College Transition (ADAPT)"
-subtitle: "2025 - present"
+subtitle: "PI: Dr. Tiffany Yip  |  2025 - present"
 excerpt: "ADAPT investigates how graduates' mental and physical well-being and resources change during the post-college transition period."
 weight: 2
 links:
