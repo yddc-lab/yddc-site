@@ -1,6 +1,6 @@
 ---
 title: "Research Projects"
-description: "An overview of YDDC Lab's current and past funded research studies."
+description: 
 show_post_thumbnail: true
 thumbnail_left: false
 show_author_byline: false
