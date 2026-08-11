@@ -1,11 +1,12 @@
 {{ define "main" }}
 <main class="page-main pa4" role="main">
-  <section class="blog-intro mw8 center tc mb5">
+  <section class="blog-intro mw8 center tc mb4">
     <h2 class="f2 f1-ns lh-solid center fw4">{{ .Title }}</h2>
     <p class="f6 f5-ns measure lh-copy center">{{ .Description }}</p>
+    <a href="lab-pets/" class="dib mt2 ph4 pv3 f6 ttu tracked fw6 br2 no-underline" style="background:#C4A77D; color:#1A1A1A;">Lab Pets &nbsp;🐾</a>
   </section>
 
-  <section class="mw8 center">
+  <section class="mw8 center mt4">
     {{ $people := where .RegularPagesRecursive "Type" "team" }}
     {{ range $people.ByWeight }}
       {{ $person := . }}
