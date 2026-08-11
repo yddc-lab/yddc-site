@@ -24,6 +24,8 @@ cascade:
 - Dr. Mona El Sheikh (Auburn)
 - Dr. Yijie Wang (MSU)
 
+And see our lab pets here! [Lab Pets 🐾](lab-pets/)
+
 ## Lab Alumni
 
 #### Postdocs / Graduate Students
