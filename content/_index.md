@@ -1,9 +1,9 @@
 ---
 title: "Youth Development in Diverse Contexts Lab"
 subtitle: "Fordham University · Department of Psychology"
-description: "Fordham's lab of Youth Development in Diverse Contexts (YDDC) examines the influence of daily life experiences on developmental outcomes for youth and adolescents. We take an ecosystemic approach to understanding the role of identity development, stress, sleep, and diverse contextual factors -- including racial experiences -- in shaping psychosocial and academic trajectories for minority youth, building a holistic picture of youth functioning."
+description: "The Youth Development in Diverse Contexts (YDDC) lab at Fordham University examines the influence of daily life experiences on developmental outcomes for youth and adolescents. We take an ecosystemic approach to understanding the role of identity development, stress, sleep, and diverse contextual factors, including racial experiences, in shaping psychosocial and academic trajectories for minority youth, building a holistic picture of youth functioning."
 images:
-  - img/yddc-logo.png
+  - img/lab-photo.jpg
 image_left: false
 text_align_left: true
 show_social_links: true
