@@ -1,7 +1,8 @@
 ---
 title: "The Adolescent Sleep Project (Ad Sleep)"
+subtitle: "PI: Dr. Tiffany Yip  |  2016 - 2018 "
 excerpt: "A 4-year longitudinal investigation of how stress impacts health and academic outcomes through sleep processes among NYC high schoolers."
-weight: 6
+weight: 7
 ---
 
 Funded by the National Science Foundation and the National Institutes of Health (PI: Yip), The Ad Sleep Project is a 4-year longitudinal investigation of how stress impacts health and academic outcomes and development through sleep processes.
@@ -10,4 +11,4 @@ As part of this project, a diverse sample of nearly 400 adolescents from several
 
 The Ad Sleep Project explores how sleep serves as a mediating pathway between stress and health and academic outcomes.
 
-**Grant number:** [R21MD011388](https://public.era.nih.gov/grantfolder/piAppDetails/genericStatus.do?encryptedParam=M-Yxds2iufc.lgdb5x66QIhMbCAx2IbD18pOCojIW5oyTy0Zlp0y7NM.)
+**Grant number:** NIH R21MD011388
