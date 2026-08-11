@@ -2,7 +2,7 @@
 title: "G. Alice Woolverton, Ph.D."
 subtitle: "Postdoctoral Fellow"
 excerpt: "Postdoctoral Fellow"
-weight: 6
+weight: 4
 draft: false
 ---
 

@@ -2,7 +2,7 @@
 title: "Angela Zhao, M.A."
 subtitle: "Lab Manager / Project Director"
 excerpt: "Lab Manager / Project Director"
-weight: 4
+weight: 7
 draft: false
 ---
 

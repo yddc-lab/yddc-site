@@ -2,7 +2,7 @@
 title: "Enrique Dimagiba, M.S., M.D."
 subtitle: "Data Manager"
 excerpt: "Data Manager"
-weight: 5
+weight: 6
 draft: false
 ---
 
