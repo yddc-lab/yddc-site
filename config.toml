@@ -2,7 +2,7 @@
 ## Repo: https://github.com/yddc-lab/yddc-site  (a PROJECT site)
 ## Pages URL will be: https://yddc-lab.github.io/yddc-site/
 ## ------------------------------------------------------------------
-baseURL = "https://yddc-lab.github.io/yddc-site/"
+baseURL = "https://yddclab.com/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "YDDC Lab"
