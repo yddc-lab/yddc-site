@@ -1,6 +1,6 @@
 ---
 title: "Adolescent Brain Cognitive Development (ABCD) Study"
-subtitle: "PI: Dr. Yijie Wang, Co-I: Dr. Tiffany Yip &nbsp;&nbsp;|&nbsp;&nbsp; *NIH R01MD015763* &nbsp;|&nbsp; 2021 - present "
+subtitle: "PI: Dr. Yijie Wang, Co-I: Dr. Tiffany Yip &nbsp;&nbsp;|&nbsp;&nbsp; *NIH R01MD015763* &nbsp;&nbsp;|&nbsp;&nbsp; 2021 - present "
 excerpt: "Drawing on the largest national longitudinal study of adolescent development, this project examines discrimination, substance use, and sleep from late childhood through adolescence."
 weight: 5
 ---
