@@ -1,6 +1,6 @@
 ---
 title: "Seguimos Avanzando - Latino Youth Coping With Discrimination"
-subtitle: "PI: Dr. Margarita Alegria, Co-I:  Dr. Tiffany Yip  |  *NIH R01MD014737*  |  2020 - 2025 "
+subtitle: "PI: Dr. Margarita Alegria, Co-I:  Dr. Tiffany Yip&nbsp;&nbsp;|&nbsp;&nbsp;*NIH R01MD014737*&nbsp;&nbsp;|&nbsp;&nbsp;2020 - 2025 "
 excerpt: "A community-based study of emotion regulation, coping, and family influences on discrimination and wellbeing among Mexican-origin adolescents and their parents."
 weight: 6
 links:

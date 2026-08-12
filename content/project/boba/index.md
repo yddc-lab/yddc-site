@@ -1,6 +1,6 @@
 ---
 title: "Building Our Bonds Authentically (BOBA) Project"
-subtitle: "PIs: Drs. Cindy Liu & Tiffany Yip  |  *NIH R01 MH129360-01; R21 HD115355* |  2022 - present"
+subtitle: "PIs: Drs. Cindy Liu & Tiffany Yip&nbsp;&nbsp;|&nbsp;&nbsp;*NIH R01 MH129360-01; R21 HD115355*&nbsp;&nbsp;|&nbsp;&nbsp;2022 - present"
 excerpt: "BOBA examines how racial discrimination is associated with mental health and biological stress among Chinese American adolescents and their parents."
 weight: 4
 links:

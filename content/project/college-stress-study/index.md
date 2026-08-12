@@ -1,6 +1,6 @@
 ---
 title: "College Stress Study"
-subtitle: "PIs: Drs. Tiffany Yip & Paul Smith  |  *Faculty Research Grant*  |  2015 - 2016 "
+subtitle: "PIs: Drs. Tiffany Yip & Paul Smith&nbsp;&nbsp;|&nbsp;&nbsp;*Faculty Research Grant*&nbsp;&nbsp;|&nbsp;&nbsp;2015 - 2016 "
 excerpt: "A study of the physiological embodiment of stress among a large, diverse sample of college students."
 weight: 8
 ---

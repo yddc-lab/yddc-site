@@ -1,6 +1,6 @@
 ---
 title: "The Adolescent Sleep Project (Ad Sleep)"
-subtitle: "PI: Dr. Tiffany Yip  |  *NSF BCS-1354134; NIH R21MD011388*  |  2015 - 2019 "
+subtitle: "PI: Dr. Tiffany Yip&nbsp;&nbsp;|&nbsp;&nbsp;*NSF BCS-1354134; NIH R21MD011388*&nbsp;&nbsp;|&nbsp;&nbsp;2015 - 2019 "
 excerpt: "A multi-year investigation of how stress impacts health and academic outcomes among diverse NYC adolescents through sleep processes."
 weight: 7
 ---
