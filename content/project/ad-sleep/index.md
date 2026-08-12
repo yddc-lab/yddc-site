@@ -1,14 +1,14 @@
 ---
 title: "The Adolescent Sleep Project (Ad Sleep)"
-subtitle: "PI: Dr. Tiffany Yip  |  2016 - 2018 "
-excerpt: "A 4-year longitudinal investigation of how stress impacts health and academic outcomes through sleep processes among NYC high schoolers."
+subtitle: "PI: Dr. Tiffany Yip  |  **Grant numbers:** NSF BCS-1354134; NIH R21MD011388  |  2015 - 2019 "
+excerpt: "A multi-year investigation of how stress impacts health and academic outcomes among diverse NYC adolescents through sleep processes."
 weight: 7
 ---
 
-Funded by the National Science Foundation and the National Institutes of Health, The Ad Sleep Project is a 4-year longitudinal investigation of how stress impacts health and academic outcomes and development through sleep processes.
+Funded by the National Science Foundation and the National Institutes of Health, The Ad Sleep Project is a longitudinal investigation of how stress impacts health, academic outcomes, and development through sleep processes among a diverse sample of adolescents from New York City public high schools.
 
-As part of this project, a diverse sample of nearly 400 adolescents from several New York City public high schools wore wrist actigraphs to collect data on sleep behaviors and patterns for 2 weeks, once every year for 4 years. In addition, participants completed biannual surveys and daily diaries to provide information on their demographics and daily stress, activities, and feelings.
+As part of this project, participants wore wrist actigraphs to collect data on sleep behaviors and patterns during a two-week period each year, and completed longer surveys several times a year along with nightly diary surveys during the two-week actigraph period, providing information on their demographics and daily stress, activities, and feelings.
 
-The Ad Sleep Project explores how sleep serves as a mediating pathway between stress and health and academic outcomes.
+The Ad Sleep Project explores how sleep serves as a mediating pathway between stress and health and academic outcomes among minority adolescents.
 
-**Grant number:** NIH R21MD011388
+

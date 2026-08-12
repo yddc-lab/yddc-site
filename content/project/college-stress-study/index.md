@@ -1,8 +1,8 @@
 ---
 title: "College Stress Study"
-subtitle: "PIs: Drs. Tiffany Yip & Smith"
+subtitle: "PIs: Drs. Tiffany Yip & Paul Smith  |  Faculty Research Grant  |  2015 - 2016 "
 excerpt: "A study of the physiological embodiment of stress among a large, diverse sample of college students."
-weight: 7
+weight: 8
 ---
 
 Funded by an Interdisciplinary and a Faculty Research Grant, this project explores the physiological embodiment of stress. This study includes a sample of over 700 diverse college students who completed a preliminary demographic survey, and a subsample of over 200 students who completed an experimental manipulation of stress in the research lab.

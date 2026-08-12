@@ -1,6 +1,6 @@
 ---
-title: "Building Our Bonds Authentically (BOBA) Study"
-subtitle: "PIs: Drs. Cindy Liu & Tiffany Yip  |  2022 - present"
+title: "Building Our Bonds Authentically (BOBA) Project"
+subtitle: "PIs: Drs. Cindy Liu & Tiffany Yip  |  **Grant numbers:** NIH R01 MH129360-01; R21 HD115355 |  2022 - present"
 excerpt: "BOBA examines how racial discrimination is associated with mental health and biological stress among Chinese American adolescents and their parents."
 weight: 4
 links:
@@ -14,6 +14,4 @@ The impact of discrimination on mental health is particularly salient to Asian A
 
 It is unknown the extent to which these experiences affect mental health in AA families, how youth approach racial bias and discrimination, and how such issues are discussed among AA parents and children. This project aims to assess how racial discrimination experiences are associated with mental health and biological measures of stress among Chinese American adolescents and their parents. We also examine the moderating role of internalized model minority beliefs, ethnic identity, and coping. The study considers family-level, bidirectional, and intergenerational effects of discrimination stress and mental health.
 
-**Grant number:** NIMH 1R01 MH129360-01
-
-Visit [The BOBA Project](https://www.thebobaproject.com/) to learn more!
+In 2024, the BOBA Project received additional NIH funding to examine how Asian American adolescents respond in the moment to social media content that portrays Asian Americans in stereotypic or counter-stereotypic ways. This companion study, involving Asian American teens, investigates how viewing such content shapes teens' self-concept and, in turn, their mental health, with the goal of informing evidence-based guidance for parents, clinicians, and communities.
