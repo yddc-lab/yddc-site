@@ -1,6 +1,6 @@
 ---
 title: "Comparing Human vs AI Talks (CHAT) Study"
-subtitle: "PI: Dr. Tiffany Yip  |  Faculty Research Grant  | 2024 - present "
+subtitle: "PI: Dr. Tiffany Yip  |  *Faculty Research Grant*  | 2024 - present "
 excerpt: "CHAT examines how young adults experience conversations with AI chatbots, and how these interactions relate to mental health and social connection."
 weight: 3
 current_study: true

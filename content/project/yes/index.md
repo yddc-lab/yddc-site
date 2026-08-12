@@ -1,6 +1,6 @@
 ---
 title: "Youth Experiences Study (YES)"
-subtitle: "PIs: Drs. Tiffany Yip & Nicole Shelton  |  **Grant number:** R01HD055436  |  2008 - 2013 "
+subtitle: "PIs: Drs. Tiffany Yip & Nicole Shelton  |  *NIH R01HD055436*  |  2008 - 2013 "
 excerpt: "A longitudinal study of 400 New York City adolescents examining ethnic identity, school context, and daily developmental outcomes."
 weight: 9
 ---
