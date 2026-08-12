@@ -18,7 +18,7 @@
           {{ end }}
           <h3 class="f3 fw6 mv0">{{ $proj.Title }}</h3>
         </div>
-        {{ with $proj.Params.subtitle }}<p class="f5 fw6 mt1 mb3">{{ . }}</p>{{ end }}
+        {{ with $proj.Params.subtitle }}<p class="f5 fw6 mt1 mb3">{{ . | markdownify }}</p>{{ end }}
         {{ if $proj.Params.links }}
         <div class="pb3">
           {{ partial "shared/btn-links.html" $proj }}
