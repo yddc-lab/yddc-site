@@ -1,0 +1,10 @@
+// Site custom styling overrides
+
+// Thin out the default browser underline on plain content links
+// (citations, DOI links, etc.) so it doesn't look bolder than the text itself
+.page-content a,
+.post-body a,
+.post-content a {
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
