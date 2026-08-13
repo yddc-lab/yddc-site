@@ -41,137 +41,85 @@ document.addEventListener('DOMContentLoaded', function () {
 
 ## 2026
 
-Wu, J., Dimagiba, E., Zhao, A., Ahmed, M., Yu, X., Yan, J., Zhang, Y., Lorenzo, K., Cham, H. & Yip, T. (2026). Comparing the reliability of sleep metrics across two wrist actigraphs: Philips Actiwatch Spectrum Plus and ActiGraph CentrePoint Insight watch. *Sleep Science and Practice.*
+Yip, T., Lorenzo, K., Woolverton, G. A., Wu, J., Cham, H., Chae, D., & El-Sheikh, M. (2026). Racial Differences in Sleep Outcomes in the First Two Years of College. *Journal of racial and ethnic health disparities,* 10.1007/s40615-026-03091-y. Advance online publication. https://doi.org/10.1007/s40615-026-03091-y
 
-Yip, T., Yan, J., Woolverton, G.A., Wu, J., Johnson, N.C., Zhao, Z., Cham, H., El-Sheikh, M. & Chae, D. (2026). Ethnic-racial Discrimination and Sleep among Black College Students: The Moderating Role of Public Regard. *Social Science & Medicine.* https://doi.org/10.1016/j.socscimed.2026.
+Jelsma, E., Wang, Y., Cham, H., Zhang, Y., Yan, J., Zhao, Z., Alegria, M. & Yip, T. (2026). Everyday ethnic discrimination and early substance use based on hair samples in high-risk racial/ethnic minority early adolescents. *Cultural Diversity and Ethnic Minority Psychology, 32*(2), 257–265. https://doi.org/10.1037/cdp0000732
 
-Woolverton, G.A., Zhao, C., Rastogi, R., Chang, A.R., Zhang, W., Lou, F.M., Yip, T., Liu, R.T., & Liu, C.H. (2026). Distinct patterns of formal and informal mental health service engagement and help-seeking among U.S. college students at risk for depression and/or anxiety: A cluster analysis. *Psychiatry Research*. https://doi.org/10.1016/j.psychres.2026.117044
+Wu, J., Dimagiba, E., Zhao, A., Ahmed, M., Yu, X., Yan, J., Zhang, Y., Lorenzo, K., Cham, H. & Yip, T. (2026). Comparing the reliability of sleep metrics across two wrist actigraphs: Philips Actiwatch Spectrum Plus and ActiGraph CentrePoint Insight watch. *Sleep Science and Practice, 77*(4). https://doi.org/10.1186/s41606-026-00188-5
 
-Rastogi, R., Woolverton, G. A., Wong, S. H. M., Yip, T., Hahm, H. C., & Liu, C. H. (2026). Proactive coping with racial discrimination may exacerbate race-based traumatic stress in diverse young adults. *Social Psychiatry and Psychiatric Epidemiology*. Advance online publication. https://doi.org/10.1007/s00127-025-02998-x.
+Yip, T., Yan, J., Woolverton, G.A., Wu, J., Johnson, N.C., Zhao, Z., Cham, H., El-Sheikh, M. & Chae, D. (2026). Ethnic-racial Discrimination and Sleep among Black College Students: The Moderating Role of Public Regard. *Social Science & Medicine, 400*, 119221. https://doi.org/10.1016/j.socscimed.2026.119221
 
-Alegria, M. Park, I. J. K., Wang, L., Fang, Y., Valentino, K., Yip, T., Zhen-Duan, J., Cruz-Gonzalez, M., Alvarez, K., Shrout, P. (2026). Protective Factors of the Longitudinal Association Between Discrimination and Mental Health Among Mexican-Origin Youth. *Journal of the American Academy of Child and Adolescent Psychiatry.* https://doi.org/10.1016/j.jaac.2026.01.012.
-
-Woolverton, G.A., Rastogi, R., Yip, T., Keum, B.T., Hahm, H.C. & Liu, C.H. (2026). Associations between vicarious anti-Black and anti-Asian racism and sleep in Black, Asian, and White young adults during the COVID-19 pandemic. *Journal of Racial and Ethnic Health Disparities*. https://doi.org/10.1007/s40615-026-02880-9
-
-Liu, C. H., & Yip, T. (2026). Generative AI in adolescence: A developmental framework. *JAMA Pediatrics.* Published online March 16, 2026. https://doi.org/10.1001/jamapediatrics.2026.0032
-
-Cheon, Y., Wang, Y., Deng, W., Seligson, A. & Yip, T. (2026). Childhood sleep duration and academic achievement: Effect modification of sociodemographic and environmental factors. *Child: Care, Health and Development*, 52:e70243.
-
-Park, I. J. K., Wang, L., Fang, Y., Valentino, K., Yip, T., Zhen-Duan, J., Cruz-Gonzalez, M., Alvarez, K., & Alegría, M. (2026). Mediating mechanisms in the discrimination-mental health link among Mexican-origin adolescents: A latent growth curve mediation analysis. *Development and Psychopathology,* 1--14, <https://doi.org/10.1017/S0954579426101163>
+Liu, C. H., & Yip, T. (2026). Generative AI in adolescence: A developmental framework. *JAMA Pediatrics, 180*(5), 473–474. https://doi.org/10.1001/jamapediatrics.2026.0032
 
 Yip, T., Lorenzo, K., Zhao, Z., Diaz, J., Wang, L., Cruz-Gonzalez, M., Valentino, K., Park, I., Zhen-Duan, J., Alvarez, K., & Alegría, M. (2026). Daily associations between ethnic and racial discrimination and sleep among Mexican-origin adolescents. *Behavioral Sleep Medicine*. https://doi.org/10.1080/15402002.2026.2620780
 
-Yip, T., Yan, J., Zhang, M. R., Wang, Y., Zhao, Z., Cham, H., & Alegría, M. (2026). School start times and racial disparities in early adolescent sleep. *Sleep Health*, 12(1), 30--38. https://doi.org/10.1016/j.sleh.2025.07.003
+Yip, T., Yan, J., Zhang, M. R., Wang, Y., Zhao, Z., Cham, H., & Alegría, M. (2026). School start times and racial disparities in early adolescent sleep. *Sleep Health, 12*(1), 30--38. https://doi.org/10.1016/j.sleh.2025.07.003
 
-Thompson, M. J., Ehrhardt, A. D., Saini, E. K., Brigham, E. F., Altinoz, Z. S., Yip, T., Buckhalt, J. A., & El-Sheikh, M. (2026). Unpacking sleep and mental health disparities across childhood and adolescence: A meta-analytic and systematic review. *Sleep Medicine Reviews*, 85, 102206. <https://doi.org/10.1016/j.smrv.2025.102206>
-
-Yip, T., Wu, J., Lou, F., Ozgen, T., Li, Y., Liu, C. (2026). Ethnic and racial identity development and mental health among AANHPI Youth. In N. Liu (Ed.), *For the Next Generation: Mental Health in Asian American & Pacific Islander Youth.*
-
-Yip, T., Zhao, Z., Wu, J., Yan, J., Zhang, M. R., Lorenzo, K., Ruedas-Gracia, N., Cham, H., Chae, D. H., & El-Sheikh, M. (2026). Discrimination and sleep difficulties among first-year students: Mediation by daily sleep quality. *Health Psychology.* https://doi.org/10.1037/hea0001575
+Yip, T., Zhao, Z., Wu, J., Yan, J., Zhang, M. R., Lorenzo, K., Ruedas-Gracia, N., Cham, H., Chae, D. H., & El-Sheikh, M. (2026). Discrimination and sleep difficulties among first-year students: Mediation by daily sleep quality. *Health Psychology, 45*(6), 658–668. https://doi.org/10.1037/hea0001575
 
 ## 2024-2025
 
-Zhang, M., Wang, Y., Zhao, Z., Yan, J., Zhang, Y., Cham, H., Alegría, M., & Yip, T. (2025). Immigrant status, socioeconomic status, and sleep disparities in early adolescence: Findings from the national ABCD Study. *Journal of Adolescent Health.*
+Zhang, M. R., Wang, Y., Zhao, Z., Yan, J., Zhang, Y., Cham, H., Alegría, M., & Yip, T. (2025). Immigrant Status, Socioeconomic Status, and Sleep Disparities in Early Adolescence: Findings From the National Adolescent Brain Cognitive Development Study. *The Journal of adolescent health, 77*(6), 1205–1214. https://doi.org/10.1016/j.jadohealth.2025.08.010
 
-Yan, J., Johnson, N. C., Zhao, Z., Lorenzo, K., Cham, H., Ruedas-Gracia, N., El-Sheikh, M., Chae, D. H., & Yip, T. (2025). Ethnic and racial discrimination and sleep health among Asian American college students. *Sleep Health*. https://doi.org/10.1016/j.sleh.2025.07.011
+Yan, J., Johnson, N. C., Zhao, Z., Lorenzo, K., Cham, H., Ruedas-Gracia, N., El-Sheikh, M., Chae, D. H., & Yip, T. (2025). Ethnic and racial discrimination and sleep health among Asian American college students. *Sleep Health, 11*(6), 808–815. https://doi.org/10.1016/j.sleh.2025.07.011
 
 Yip, T., Lorenzo, K., Wu, J., Yan, J., Zhao, Z., Cham, H., Chae, D., & El-Sheikh, M. (2025). Racial Disparities in Sleep Among Diverse Young Adults During the First Semester of College. *Journal of Racial and Ethnic Health Disparities*. https://doi.org/10.1007/s40615-025-02592-6
 
-Zhao, C., Rastogi, R., Woolverton, G. A., Yip, T., & Liu, C. H. (2025). Fluctuating recovery: Trajectories of young adult mental health through the COVID-19 pandemic 2020--2022. *Journal of Affective Disorders*, 119694. https://doi.org/10.1016/j.jad.2025.119694
+Yip, T., Wang, Y. & Zhao, A. (2025). Promises and Pitfalls of Daily Diary Methods for Understanding Developmental Processes. *Annual Review of Developmental Psychology, 7*:439--60. https://doi.org/10.1146/annurev-devpsych-111323-095203
 
-Yip, T., Zhao, Z., Lorenzo, K., Valentino, K., Wang, L., Alvarez, K., Park, I., Zhen-Duan, J., & Alegría, M. (2025). Longitudinal Links Between Vicarious Racism and Mental Health Among Mexican-Origin Adolescents: The Moderating Role of Daily Sleep Quality. *Journal of Adolescent Health,* 77(4), 692--699. https://doi.org/10.1016/j.jadohealth.2025.05.027
+Zhao, Z., Yan, J., Wang, Y., Liu, C. H., Wang, L., Cham, H., & Yip, T. (2025). Race, ethnicity, sex, sexual orientation, and discrimination in the Adolescent Brain Cognitive Development Study. *JAMA Network Open, 8*(5), e2510799. https://doi.org/10.1001/jamanetworkopen.2025.10799
 
-Thompson, M. J., Ehrhardt, A. D., Saini, E. K., Yip, T., Buckhalt, J. A., & El-Sheikh, M. (2025). Socioeconomic and racial/ethnic disparities in sleep and cognitive and academic functioning across childhood and adolescence: A meta-analytic review. *Sleep,* 48(10), zsaf166. https://doi.org/10.1093/sleep/zsaf166
+Yan, J., Xie, M., Zhao, Z., Bae, J., Cham, H. & Yip, T. (2025). Sleep difficulties and adolescent internalizing symptoms: The Moderating role of sleep regularity. *Journal of Sleep Research, 34*(5), e14481. https://doi.org/10.1111/jsr.14481
 
-Woolverton, G. A., Zhang, W., Wong, S. H. M., Wang, J. J., Nguyen, V., Zhao, C., Rastogi, R., Yip, T., Keum, B. T., & Liu, C. H. (2025). Vicarious racism and links to negative emotions and mental health in U.S. adults: A scoping review. *Harvard Review of Psychiatry*, 33(4), 191--212. https://doi.org/10.1097/HRP.0000000000000436
+Yan, J., Xie, M., Zhao, Z., Cham, H., El-Sheikh, M. & Yip, T. (2025). Sleep profiles among ethnically-racially minoritized adolescents: Associations with sociocultural experiences and developmental outcomes. *Journal of Clinical Child and Adolescent Psychology,, 34*(5), e14481. https://doi.org/10.1080/15374416.2025.2475495
 
-Yip, T., Wang, Y. & Zhao, A. (2025). Promises and Pitfalls of Daily Diary Methods for Understanding Developmental Processes. *Annual Review of Developmental Psychology,* 7:439--60; https://doi.org/10.1146/annurev-devpsych-111323-095203
+Wang, Y., Zhao, Z., Zhang, M., Zhang, Y., Yan, J., Jelsma, E., Cham, H., Alegria, M. & Yip, T. (2025). Sleep as a Protective Factor: Multiple Forms of Discrimination and Substance Use Intention among Racially and Ethnically Minoritized U.S. Youth. *Journal of Adolescent Health, 76*(4), 718–726.  https://doi.org/10.1016/j.jadohealth.2024.12.004
 
-Zhao, Z., Yan, J., Wang, Y., Liu, C. H., Wang, L., Cham, H., & Yip, T. (2025). Race, ethnicity, sex, sexual orientation, and discrimination in the Adolescent Brain Cognitive Development Study. *JAMA Network Open, 8(5), e2510799.,* https://doi.org/10.1001/jamanetworkopen.2025.10799
+Zhao, Z., Wang, Y., Yan, J. Wang, L., Liu, C., Cham, H. & Yip, T. (2025). Adolescent health and the intersectionality of ethnicity/race, sex, and sexual orientation: A national probability sample from the ABCD Study. *Developmental Psychology, 61*(7), 1264–1274. https://doi.org/10.1037/dev0001912
 
-Yan, J., Xie, M., Zhao, Z., Bae, J., Cham, H. & Yip, T. (2025). Sleep difficulties and adolescent internalizing symptoms: The Moderating role of sleep regularity. *Journal of Sleep Research,* https://doi.org/10.1111/jsr.14481
+Chung, K., Lorenzo, K., Chae, D., El-Sheikh, E. & Yip, T. (2024). Impact of daily neighborhood violent crime on nightly sleep among adolescence. *Child Development, 96*(2), 891--900. https://doi.org/10.1111/cdev.14202
 
-Yan, J., Xie, M., Zhao, Z., Cham, H., El-Sheikh, M. & Yip, T. (2025). Sleep profiles among ethnically-racially minoritized adolescents: Associations with sociocultural experiences and developmental outcomes. *Journal of Clinical Child and Adolescent Psychology,* doi.org/10.1080/15374416.2025.2475495
+Wang, Y., Zhao, Z., Zhang, Y., Yan, J., Zhang, M., Jelsma, E., Johnson, S., Cham, H., Algeria, M. & Yip, T. (2024). Race, ethnicity, and sleep in U.S. children. *JAMA Network Open, 7*(12). https://doi.org/10.1001/jamanetworkopen.2024.49861
 
-Niu, L., Gao, Q., Xie, M., Yip, T., Gunnar, M. R., Wang, W., Xu, Q., Zhang, Y., & Lin, D. (2025). Association of childhood adversity with HPA axis activity in children and adolescents: A systematic review and meta-analysis. *Neuroscience & Biobehavioral Reviews,* 106124. doi: 10.1016/j.neubiorev.2025.106124
+Lorenzo, K., Xie, M., Cham, H., El-Sheikh, M., & Yip, T. (2024). Corresponding changes in sleep and discrimination: A three-year longitudinal study among ethnically/racially diverse adolescents. *Journal of Youth and Adolescence, 54*, 368–382. https://doi.org/10.1007/s10964-024-02086-4
 
-Rivas-Drake, D., Vezaldenos, V., Livas Stein, G., Witherspoon, D., Jacobs, L., Yip, T., Spears Brown, C. & Neblett, E. (2025). What do parents want?: Relevant content and formats for resources to address issues of racism, antiracism, and xenophobia with youth. *Applied Developmental Science.* doi.org/10.1080/10888691.2025.2456195
+Lorenzo, K., Cham, H. & Yip, T. (2024). Longitudinal associations between friendship ethnic/racial composition and ethnic/racial identity: The role of school diversity. *Journal of Youth & Adolescence, 53*, 2534–2550. https://doi.org/10.1007/s10964-024-02041-3
 
-Woolverton, G.A., Yip, T., Rastogi, R., Hahm, H.C. & Liu, C.H. (2025). Differential associations in major, everyday, and vicarious racial discrimination on race-based traumatic stress among Black, Latine, and Asian young adults. *Journal of Traumatic Stress,* http://dx.doi.org/10.1002/jts.23130
+Yan, J., Jelsma, E., Wang, Y., Zhang, Y., Zhao, Z., Cham, H., Alegria, M. & Yip, T. (2024). Racial-ethnic discrimination and early adolescents' behavioral problems: The protective role of parental warmth. *Journal of the American Academy of Child and Adolescent Psychiatry, 64*(2), 249–261. https://doi.org/10.1016/j.jaac.2024.03.020
 
-Wang, Y., Zhao, Z., Zhang, M., Zhang, Y., Yan, J., Jelsma, E., Cham, H., Alegria, M. & Yip, T. (2025). Sleep as a Protective Factor: Multiple Forms of Discrimination and Substance Use Intention among Racially and Ethnically Minoritized U.S. Youth. *Journal of Adolescent Health,* [doi.org/10.1016/j.jadohealth.2024.12.004](https://doi.org/10.1016/j.jadohealth.2024.12.004)
+Park, I. J. K., Wang, L., Li, R., Yip, T., Valentino, K., Cruz-Gonzalez, M., Giraldo-Santiago, N., Lorenzo, K., Zhen-Duan, J., Alvarez, K. & Alegria, M. (2024). A Daily Diary Study of Discrimination and Distress in Mexican-Origin Adolescents: Testing Mediating Mechanisms. *Child Development, 95*(5), 1754–1769. https://doi.org/10.1111/cdev.14108
 
-Rastogi, R., Raval, V. V., Yip, T., Chen, J. A. & Liu, C. H. (2025). Racial exclusion and racial othering on South Asian American identity and population health. *American Journal of Public Health*
+Valentino, K., Park, I. J. K., Cruz-Gonzalez, M., Zhen-Duan, J., Wang, L., Yip, T., Lorenzo, K., Dias, D., Alvarez, K., & Alegría, M. (2024). Family-level moderators of daily associations between discrimination and distress among Mexican-origin youth. *Development and Psychopathology, 37*(2), 902–917. https://doi.org/10.1017/S0954579424000749
 
-Zhao, Z., Wang, Y., Yan, J. Wang, L., Liu, C., Cham, H. & Yip, T. (2025). Adolescent health and the intersectionality of ethnicity/race, sex, and sexual orientation: A national probability sample from the ABCD Study. *Developmental Psychology.* [https://doi.org/10.1037/dev0001912](https://psycnet.apa.org/doi/10.1037/dev0001912)
+Yip, T., Yan, J., Johnson, S., Bae, J., Lorenzo, K., Ruedas-Gracia, N., & Zhao, Z. (2024). Developmental links between ethnic and racial discrimination and sleep. *Child development perspectives, 18*(4), 172–181. https://doi.org/10.1111/cdep.12513
 
-Zhen-Duan, J., Cruz-Gonzalez, M., Diaz, J., Sánchez, M., Park, I., Alvarez, K., Yip, T., Wang, L., Valentino, K. & Alegría, M. (2024). Intergenerational Continuity of Adverse Childhood Experiences among Mexican-origin Families: Examination of Intra and Extra-Familial Adversities. *Family Process*. <https://doi.org/10.1111/famp.13091>
+Yip, T., Lorenzo, K., Bae, J., Hall, G. N., Cheah, C. S. L., Kiang, L., Takeuchi, D., & Tseng, V. (2024). Anti-Asian biases in federal grant reviews: Commentary on Yip et al. (2021). *The American psychologist, 79*(5), 770–776. https://doi.org/10.1037/amp0001337
 
-Chung, K., Lorenzo, K., Chae, D., El-Sheikh, E. & Yip, T. (2024). Impact of daily neighborhood violent crime on nightly sleep among adolescence. *Child Development*, https://doi.org/10.1111/cdev.14202
+Wang, Y., Zhang, Y., Zhao, Z., Jelsma, E., Cham, H., Wadsworth, H., Yan, J., Johnson, S., Alegría, M., & Yip, T. (2024). Multiple Discrimination and Substance Use Intention in Late Childhood: Findings From the Adolescent Brain Cognitive Development (ABCD) Study. *The Journal of adolescent health, 74*(6), 1217–1224. https://doi.org/10.1016/j.jadohealth.2024.01.028
 
-Wang, Y., Zhao, Z., Zhang, Y., Yan, J., Zhang, M., Jelsma, E., Johnson, S., Cham, H., Algeria, M. & Yip, T. (2024). Race, ethnicity, and sleep in U.S. children. *JAMA Network Open, 7 (12),* doi10.1001/jamanetworkopen.2024.49861
+Alegría, M., Cruz-Gonzalez, M., Yip, T., Wang, L., Park, I. J. K., Fukuda, M., Valentino, K., Giraldo-Santiago, N., Zhen-Duan, J., Alvarez, K., Barrutia, X. A., & Shrout, P. E. (2024). Yearly and Daily Discrimination-Related Stressors and Mexican Youth's Mental Health and Sleep: Insights From the First Wave of a Three-Wave Family Study. *Journal of the American Academy of Child and Adolescent Psychiatry, 63*(11), 1134–1148. https://doi.org/10.1016/j.jaac.2023.12.010
 
-Jelsma, E., Wang, Y., Cham, H., Zhang, Y., Yan, J., Zhao, Z., Alegria, M. & Yip, T. (2024). Everyday ethnic discrimination and early substance use based on hair samples in high-risk racial/ethnic minority early adolescents. *Cultural Diversity and Ethnic Minority Psychology.*
-
-Lorenzo, K., Xie, M., Cham, H., El-Sheikh, M., & Yip, T. (2024). Corresponding changes in sleep and discrimination: A three-year longitudinal study among ethnically/racially diverse adolescents. *Journal of Youth and Adolescence.* <https://doi.org/10.1007/s10964-024-02086-4>
-
-Rastogi, R., Woolverton, G. A., Lee, R. M., Yip, T., Chen, J. A., Stevens, C. & Liu, C. H. (2024). Microaggression and discrimination exposure on young adult anxiety, depression, and sleep. *Journal of Affective Disorders.* [10.1016/j.jad.2024.07.083](http://dx.doi.org/10.1016/j.jad.2024.07.083)
-
-Lorenzo, K., Cham, H. & Yip, T. (2024). Longitudinal associations between friendship ethnic/racial composition and ethnic/racial identity: The role of school diversity. *Journal of Youth & Adolescence.* [10.1007/s10964-024-02041-3](http://dx.doi.org/10.1007/s10964-024-02041-3)
-
-Yan, J., Jelsma, E., Wang, Y., Zhang, Y., Zhao, Z., Cham, H., Alegria, M. & Yip, T. (2024). Racial-ethnic discrimination and early adolescents' behavioral problems: The protective role of parental warmth. *Journal of the American Academy of Child and Adolescent Psychiatry.* <https://doi.org/10.1016/j.jaac.2024.03.020>
-
-Park, I. J. K., Wang, L., Li, R., Yip, T., Valentino, K., Cruz-Gonzalez, M., Giraldo-Santiago, N., Lorenzo, K., Zhen-Duan, J., Alvarez, K. & Alegria, M. (2024). A Daily Diary Study of Discrimination and Distress in Mexican-Origin Adolescents: Testing Mediating Mechanisms. *Child Development*, [10.1111/cdev.14108](https://doi.org/10.1111/cdev.14108)
-
-Valentino, K., Park, I. J. K., Cruz-Gonzalez, M., Zhen-Duan, J., Wang, L., Yip, T., ... Alegría, M. (2024). Family-level moderators of daily associations between discrimination and distress among Mexican-origin youth. *Development and Psychopathology,* 1--16. doi:10.1017/S0954579424000749
-
-Yip, T., Yan, J., Johnson, S., Bae, J., Lorenzo, K., Ruedas-Gracia, N. & Zhao, Z. (2024). *Developmental Linkages between Ethnic and Racial Discrimination and Sleep. Child Development Perspectives*, <https://doi.org/10.1111/cdep.12513>
-
-Fuller-Rowell, T. E.; Zeringue, M. M.; Saini, E. K.; Yip, T. & El-Sheikh, M. (2024) Do Sleep Problems Exacerbate the Mental Health Consequences of Discrimination Among Adults? *Psychosomatic Medicine*, 86(4):p 324-333, 10.1097/PSY.0000000000001305
-
-Causadias, J.M., Rogers, L.O., Juang, L.P. & Yip, T. (2024). Scholar activism benefits science and society. *Nature Reviews Psychology*. https://doi.org/10.1038/s44159-024-00319-8
-
-Chavous, T., Epinoza, M., Philip, T., Rivas-Drake, D. & Yip, T. (2024). Advancing a Science of Learning and Development that can Promote Dignity-Affirming Educational Environments: Some Considerations for the Field. In C. Lee, R. M. Lerner, V. L. Gadsden & D. Osher (Eds.), *Review of Research on Education: The Science of Learning and Development*, Vol 47, 116-154.
-
-Yip, T., K., Bae, J., Hall, G. N., Cheah, C. S. L., Kiang, L., Takeuchi, D. & Tseng, V. (2024). Anti-Asian biases in federal grant reviews: Comment on Yip, Cheah, Kiang and Hall 2021. *American Psychologist*
-
-Wang, Y., Zhang, Y., Zhao, Z., Cham, H., Jelsma, E, Wadsworth, H., Yan, J., Johnson, S. Alegria, M. & Yip, T. (2024). Multiple Discrimination and Substance Use Intention in Late Childhood: Findings from the Adolescent Brain Cognitive Development (ABCD) Study. *Journal of Adolescent Health.* doi: 10.1016/j.jadohealth.2024.01.028
-
-Civitillo, S., Juggert, P., Tizmann, P., Liu, P. & Yip, T. (2024). A Daily Diary Study on Associations Between School-Based Ethnic Discrimination and School Engagement. *Social Psychology of Education.* [10.1007/s11218-024-09919-x](http://dx.doi.org/10.1007/s11218-024-09919-x)
-
-Alegria, M., Cruz-Gonzalez, M., Wang, L., Valentino, K., Park, I., Zhen-Duan, J., Alvarez, K., Giraldo-Santiago, N., Barrutia, X. & Yip, T. (2024). Yearly and daily discrimination-related stressors and Mexican youth's mental health and sleep: Insights from the first wave of a three-wave family study. *Journal of the American Academy of Child and Adolescent Psychiatry.* <https://doi.org/10.1016/j.jaac.2023.12.010>
+Lorenzo, K., Gee, G., de Castro, B., Zhao, Z., Yan, J., Hussein, N., & Yip, T. (2024). Everyday Discrimination and Sleep Among Migrant and Non-migrant Filipinos: Longitudinal Analyses from the Health of Philippine Emigrants Study (HoPES). *Journal of immigrant and minority health, 26*(2), 304–315. https://doi.org/10.1007/s10903-023-01554-6
 
 ## 2022-2023
 
-Lorenzo, K., Yan, J., Zhao, Z., DeCastro, B., Gee, G. & Yip, T. (2023). Everyday discrimination and sleep among migrant and non-migrant Filipinos: Longitudinal analyses from the Health of Philippine Emigrants Study (HoPES). *Journal of Immigrant & Minority Health.*10.1007/s10903-023-01554-6
+Xie, M., Zhao, Z., Yan, J., Cham, H., & Yip, T. (2024). Ethnic/Racial Identity, Adolescent Sleep, and Somatic Health: Discrimination and Stress Responses as Mediating Mechanisms. *The Journal of adolescent health, 74*(3), 514–522. https://doi.org/10.1016/j.jadohealth.2023.09.012
 
-Xie, M., Zhao, Z., Yan, J., Cham, H. & Yip, T. (2023). Ethnic/racial identity, adolescent sleep and somatic health: Discrimination and stress responses as mediating mechanisms. *Journal of Adolescent Health*. [https://doi.org/10.1016/j.jadohealth.2023.09.012](https://urldefense.proofpoint.com/v2/url?u=https-3A__doi.org_10.1016_j.jadohealth.2023.09.012&d=DwMGaQ&c=aqMfXOEvEJQh2iQMCb7Wy8l0sPnURkcqADc2guUW8IM&r=LNWkqaOD-Vi7gS0WID3tEui7LjQ_QPaKiMYkfyBdtW4&m=VkBPsPGFnhJxJiC40pe-a8anQYPZx_Vu_I5hXw-KQvXjncVBp2AILmwIezaiW4k_&s=syYRJymMjkGLOpOPV9Ko7drNzX_MAESSXOG8sCi7-z8&e=)
+Yip, T., Feng, Y., Lorenzo, K. & El-Sheikh, M. (2022). Ethnic/racial discrimination and academic grades among adolescents: moderation by sleep regularity. *Journal of Sleep Research, 32*(3), e13798. https://doi.org/10.1111/jsr.13798
 
-Williams, A. D., Aronson, K. M., Chavous, T. M., Cooke, D. Y., Glover, C. S., Hoggard, L. S., Kohn-Wood, L., Lesane-Brown, C. L., Lewis-McCoy, R. L., Martin, P. P., Rowley, S. J., Seaton, E. K., Smith-Bynum, M. A., Wout, D. A., Yip, T. & Neblett, E. W., Jr. (2023). Standing on the shoulders of a giant: The legacy of Robert M. Sellers. *American Psychologist*, 78(4), 441--456. [https://doi.org/10.1037/amp0001129](https://psycnet.apa.org/doi/10.1037/amp0001129)
+Yip, T., Wang, Y., Xie, M., Ip, P. S., Fowle, J. & Buckhalt, J. (2022). School start times, sleep, and youth outcomes: A Meta-analysis, *Pediatrics, 149*(6): e2021054068. https://doi.org/10.1542/peds.2021-054068
 
-Tao, X., Yip, T. & Fisher, C. B. (2022). Psychological Well-being and Substance Use during the COVID-19 Pandemic: Roles of Ethnic/Racial Identity, Discrimination and Vigilance, *Journal of Racial and Ethnic Health Disparities.* doi: 10.1007/s40615-022-01497-y.
+Yip, T., Xie, M., Cham, H. & El-Sheikh, M. (2022). Linking ethnic/racial discrimination to adolescent mental health: Sleep disturbance as an explanatory pathway, *Child Development, 93*(4), 974-994. https://doi.org/10.1111/cdev.13747
 
-Yip, T., Feng, Y., Lorenzo, K. & El-Sheikh, M. (2022). Ethnic/racial discrimination and academic grades among adolescents: moderation by sleep regularity. *Journal of Sleep Research*, e13798. https://doi.org/10.1111/jsr.13798
+Yip, T., Cham, H., Wang, Y. & Xie, M. (2022). Applying stress and coping models to ethnic/racial identity, discrimination, and adjustment among diverse adolescents, *Developmental Psychology, 58*(1), 176-192. https://doi.org/10.1037/dev0001283
 
-Zhang, E., Hyun, S., Yip, T., Hahm, H. C. & Liu, C. (2022). Learning about racial discrimination during childhood: Implications for racial trauma among Asians and Asian Americans, *Asian Journal of Psychiatry,* 77, 103250, https://doi.org/10.1016/j.ajp.2022.103250
+Yip, T., Chung K. & Chae, D. H. (2022). Vicarious racism, ethnic/racial identity and sleep among Asian Americans, *Cultural Diversity and Ethnic Minority Psychology, 30*(2), 319–329. https://doi.org/10.1037/cdp0000534
 
-Tao, X., Fisher, C. B. & Yip, T. (2022). Employment, coronavirus victimization distress, and substance use disorders among Black and non-Hispanic White emerging adults during the COVID-19 pandemic, *Journal of Ethnicity in Substance Abuse,* doi.org/10.1080/15332640.2022.2091702
-
-Yip, T., Haskin, M., Fowle, J., Xie, M., Cheon, Y. M., Ip, P.S. & Akhter, S.* (2022). Development against the backdrop of the Model Minority Myth: Strengths and vulnerabilities among Asian American adolescents and young adults. In L. Crockett, G. Carlo & J. Schulenberg (Eds.), *APA Handbook of Adolescent and Young Adult Development*, 558-577.
-
-Yip, T., Wang, Y., Xie, M., Ip, P. S., Fowle, J. & Buckhalt, J. (2022). School start times, sleep, and youth outcomes: A Meta-analysis, *Pediatrics,* https://doi.org/10.1542/peds.2021-054068
-
-Yip, T., Xie, M., Cham, H. & El-Sheikh, M. (2022). Linking ethnic/racial discrimination to adolescent mental health: Sleep disturbance as an explanatory pathway, *Child Development,* 93(4), 974-994, https://doi.org/10.1111/cdev.13747
-
-Yip, T., Cham, H., Wang, Y. & Xie, M. (2022). Applying stress and coping models to ethnic/racial identity, discrimination, and adjustment among diverse adolescents, *Developmental Psychology,* 58(1), 176-192. https://doi.org/10.1037/dev0001283
-
-Yip, T., Chung K. & Chae, D. H. (2022). Vicarious racism, ethnic/racial identity and sleep among Asian Americans, *Cultural Diversity and Ethnic Minority Psychology,* doi.org/10.1037/cdp0000534
-
-Fisher, C. B., Tao, X. & Yip, T. (2022). The effects of coronavirus victimization distress and coronavirus racial bias on mental health among Black, Indigenous and Latinx young adults in the United States, *Cultural Diversity and Ethnic Minority Psychology,* doi:10.1037/cdp0000539
+Fisher, C. B., Tao, X. & Yip, T. (2022). The effects of coronavirus victimization distress and coronavirus racial bias on mental health among Black, Indigenous and Latinx young adults in the United States, *Cultural Diversity and Ethnic Minority Psychology, 29*(2), 119–131. https://doi.org/10.1037/cdp0000539
 
 ## 2020-2021
 
-Rogers, L. O., Niwa, E. Y., Chung, K., Yip, T. & Chae, D. (2021). M(ai)cro: Centering the Macrosystem in Human Development. *Human Development*, https://doi.org/10.1159/000519630
+Rogers, L. O., Niwa, E. Y., Chung, K., Yip, T. & Chae, D. (2021). M(ai)cro: Centering the Macrosystem in Human Development. *Human Development, 65*(5-6), 270--292. https://doi.org/10.1159/000519630
 
 Alegria, M., Yip, T., Marks, A., Juang, L., Cohen, L. & Cuervo-Torello, F. (2021). Editorial: Improving Mental Health for Immigrant Populations. *Frontiers in Psychiatry,* 12:785137, <https://doi.org/10.3389/fpsyt.2021.785137>
 
