@@ -11,9 +11,5 @@ cascade:
   show_author_byline: false
   show_post_date: true
   show_comments: false
-  layout: single-sidebar
-  sidebar:
-    text_link_label: "View all news & press"
-    text_link_url: "/blog/"
-    show_sidebar_adunit: false
+  layout: single-full
 ---
