@@ -4,10 +4,6 @@ date: 2022-09-07
 excerpt: "Dr.  Tiffany Yip discusses the importance of sleep for young people and the positive impact bring by a delay  school starting time."
 draft: false
 links:
-- icon: newspaper
-  icon_pack: far
-  name: Read the original
-  url: "https://news.fordham.edu/education-and-social-services/what-time-should-school-really-start/"
 ---
 
 Dr. Yip discusses the role of sleep play in education, family relationship, and health for students.
