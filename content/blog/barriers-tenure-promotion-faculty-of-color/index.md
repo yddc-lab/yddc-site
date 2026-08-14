@@ -4,12 +4,7 @@ date: 2023-09-21
 excerpt: "A report by the American Psychological Association outlines the barriers many faculty members of color face and calls for increased transparency in the tenure and promotion process."
 draft: false
 links:
-- icon: newspaper
-  icon_pack: far
-  name: Read the original
-  url: "https://www.insidehighered.com/news/faculty-issues/diversity-equity/2023/09/21/psychology-faculty-color-barriers-tenure-promotion"
----
 
-See below to read the article.
+---
 
 [Read the original article](https://www.insidehighered.com/news/faculty-issues/diversity-equity/2023/09/21/psychology-faculty-color-barriers-tenure-promotion)

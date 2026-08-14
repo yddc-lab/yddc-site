@@ -4,10 +4,6 @@ date: 2025-08-28
 excerpt: "Sleep health disparities are unaffected."
 draft: false
 links:
-- icon: newspaper
-  icon_pack: far
-  name: Read the original
-  url: "https://www.psychologytoday.com/us/blog/child-sleep-from-zzzs-to-as/202508/later-school-start-times-are-not-beneficial-for-all"
 ---
 
 Key Points
@@ -19,7 +15,5 @@ Key Points
 - A recent large nationwide study showed that benefits were not found for some groups.
 
 - Reduction in sleep health disparities will have to depend on more than just later school start times.
-
-See below to learn more.
 
 [Read the original article](https://www.psychologytoday.com/us/blog/child-sleep-from-zzzs-to-as/202508/later-school-start-times-are-not-beneficial-for-all)
