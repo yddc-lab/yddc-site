@@ -4,10 +4,6 @@ date: 2020-04-20
 excerpt: "Dr. Tiffany Yip and Dr. Yijie Wang conducted a study analyzing the effects of a good night's sleep on coping with discrimination."
 draft: false
 links:
-- icon: newspaper
-  icon_pack: far
-  name: Read the original
-  url: "https://www.sciencenewsforstudents.org/article/sleep-helps-teens-cope-with-discrimination"
 ---
 
 Dr. Tiffany Yip and Dr. Yijie Wang conducted a study analyzing the effects of a good night's sleep on coping with discrimination.

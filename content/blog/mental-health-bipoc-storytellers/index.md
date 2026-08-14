@@ -4,10 +4,6 @@ date: 2021-09-19
 excerpt: "Dr. Tiffany Yip joins a panel discussing tools and strategies for journalists and artists to maintain their mental health at the frontlines of the COVID-19 pandemic."
 draft: false
 links:
-- icon: newspaper
-  icon_pack: far
-  name: Read the original
-  url: "https://www.youtube.com/watch?v=c4VjIrTLMjI"
 ---
 
 Dr. Tiffany Yip joined a panel discussing tools and strategies for journalists and artists to maintain their mental health at the frontlines of the COVID-19 pandemic.

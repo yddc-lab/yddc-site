@@ -4,10 +4,6 @@ date: 2021-07-08
 excerpt: "Dr. Tiffany Yip speaks to Scientific American about the impact of decreased funding and research on the AAPI community."
 draft: false
 links:
-- icon: newspaper
-  icon_pack: far
-  name: Read the original
-  url: "https://www.scientificamerican.com/article/research-on-asian-americans-and-pacific-islanders-is-being-stifled/"
 ---
 
 Dr. Tiffany Yip speaks to Scientific American about the impact of decreased funding and research on the AAPI community.

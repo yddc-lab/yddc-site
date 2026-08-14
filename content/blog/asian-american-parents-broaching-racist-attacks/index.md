@@ -4,10 +4,6 @@ date: 2021-03-25
 excerpt: "In the aftermath of the shootings in Atlanta where eight people, including six Asian-American women, were killed, many parents across the country are having difficult conversations with their kids about the recent anti-Asian attacks, which are on the rise in the U.S."
 draft: false
 links:
-- icon: newspaper
-  icon_pack: far
-  name: Read the original
-  url: "https://www.yahoo.com/video/how-some-asian-american-parents-are-broaching-discussions-of-recent-racist-attacks-with-their-kids-141051149.html"
 ---
 
 In the aftermath of the shootings in Atlanta where eight people, including six Asian-American women, were killed, many parents across the country are having difficult conversations with their kids about the recent anti-Asian attacks, which are on the rise in the U.S.

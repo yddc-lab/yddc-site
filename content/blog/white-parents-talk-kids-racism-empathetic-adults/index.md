@@ -4,10 +4,6 @@ date: 2020-07-07
 excerpt: "Research shows, most white parents do not discuss the harsh realities of racism to their children. Changing societal structures begins at the family level."
 draft: false
 links:
-- icon: newspaper
-  icon_pack: far
-  name: Read the original
-  url: "https://www.cnn.com/2020/07/07/health/white-parents-talk-racism-wellness-partner/index.html"
 ---
 
 Research shows, most white parents do not discuss the harsh realities of racism to their children. Changing societal structures begins at the family level.
