@@ -1,0 +1,27 @@
+{{ define "main" }}
+<main class="page-main pa4" role="main">
+  <section class="page-content mw8 center">
+    {{ if .Params.show_title_as_headline }}<h1 class="f2 f1-m f-headline-l fw5-ns mv4 lh-solid tracked-tight-ns">{{ .Title }}</h1>{{ end }}
+    {{ with .Params.subtitle }}<h4 class="f4 mt0 mb4">{{ . }}</h4>{{ end }}
+    {{ .Content }}
+
+    <div class="flex flex-wrap justify-center mt4">
+      {{ range .Params.pets }}
+        {{ $photo := "" }}
+        {{ if .photo }}
+          {{ with $.Resources.GetMatch .photo }}{{ $photo = .RelPermalink }}{{ end }}
+        {{ end }}
+        <div class="w-50-m w-third-l pa3 tc">
+          {{ if $photo }}
+            <img src="{{ $photo }}" class="w-100 br3" style="aspect-ratio:1/1; object-fit:cover;" alt="{{ .name }}">
+          {{ else }}
+            <div class="w-100 br3 bg-black-05 flex items-center justify-center" style="aspect-ratio:1/1;"><span class="f1">🐾</span></div>
+          {{ end }}
+          <p class="f5 fw6 mt2 mb0">{{ .name }}</p>
+          {{ with .owner }}<p class="f6 mt0" style="color:#7E072A;">{{ . }}</p>{{ end }}
+        </div>
+      {{ end }}
+    </div>
+  </section>
+</main>
+{{ end }}
