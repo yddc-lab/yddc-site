@@ -9,7 +9,7 @@
         {{ $images := .Resources.ByType "image" }}
         {{ $photo := $images.GetMatch "*feature*" }}
         {{ with $photo }}
-        <img src="{{ .RelPermalink }}" class="w-100 br2 mb4" alt="{{ $.Title }}">
+        <img src="{{ .RelPermalink }}" class="w-100 br2 mb4" style="max-height: 400px; object-fit: cover;" alt="{{ $.Title }}">
         {{ end }}
 
         {{ if .Params.links }}
