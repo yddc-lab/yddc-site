@@ -11,7 +11,7 @@ _build:
 pets:
   - name: "Teddy"
     owner: "Tiffany's dog"
-    photo: "teddy.jpg"
+    photo: "teddy.jpeg"
   - name: "Peach"
     owner: "Charlene's cat"
     photo: "peach.jpg"
