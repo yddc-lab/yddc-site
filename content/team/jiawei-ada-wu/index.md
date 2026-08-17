@@ -1,5 +1,5 @@
 ---
-title: "Jiawei (Ada) Wu"
+title: "Jiawei (Ada) Wu, M.A."
 subtitle: "Graduate Research Assistant"
 excerpt: "Graduate Research Assistant"
 weight: 8
