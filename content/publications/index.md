@@ -41,6 +41,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
 ## 2026
 
+Woolverton, G.A., Zhang, Y., Yu, X., Ruedas-Gracia, N., Liu, C. H., Chae, D. H., Cham, H., El-Sheikh, M., & Yip, T. (2026). Vicarious racial discrimination and sleep health among Latina/o/x/Hispanic college students: Distinctions from direct racial discrimination and moderation by ethnic–racial identity. *Journal of Racial and Ethnic Health Disparities.* https://doi.org/10.1007/s40615-026-03023-w
+
 Yip, T., Lorenzo, K., Woolverton, G. A., Wu, J., Cham, H., Chae, D., & El-Sheikh, M. (2026). Racial Differences in Sleep Outcomes in the First Two Years of College. *Journal of racial and ethnic health disparities,* 10.1007/s40615-026-03091-y. Advance online publication. https://doi.org/10.1007/s40615-026-03091-y
 
 Jelsma, E., Wang, Y., Cham, H., Zhang, Y., Yan, J., Zhao, Z., Alegria, M. & Yip, T. (2026). Everyday ethnic discrimination and early substance use based on hair samples in high-risk racial/ethnic minority early adolescents. *Cultural Diversity and Ethnic Minority Psychology, 32*(2), 257–265. https://doi.org/10.1037/cdp0000732

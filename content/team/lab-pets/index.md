@@ -24,6 +24,9 @@ pets:
   - name: "Tess"
     owner: "Angela's dog"
     photo: "tess.jpg"
+  - name: "Bernard"
+    owner: "Alice's dog"
+    photo: "bernard.jpg"
 ---
 
 Our lab's furry family members!
