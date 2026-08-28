@@ -12,7 +12,7 @@ pets:
   - name: "Teddy"
     owner: "Tiffany's dog"
     photo: "teddy.jpeg"
-  - name: "Peach"
+  - name: "Olivia"
     owner: "Charlene's cat"
     photo: "olivia.jpg"
   - name: "Pan & Cake"
