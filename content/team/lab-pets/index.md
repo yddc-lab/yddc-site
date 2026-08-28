@@ -14,7 +14,7 @@ pets:
     photo: "teddy.jpeg"
   - name: "Peach"
     owner: "Charlene's cat"
-    photo: "peach.jpg"
+    photo: "olivia.jpg"
   - name: "Pan & Cake"
     owner: "Ada's cats"
     photo: "pan-and-cake.jpg"
